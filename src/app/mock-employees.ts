@@ -1,4 +1,4 @@
-import {employee} from './employee';
+import {Employee} from './employee';
 
 export const EMPLOYEES: Employee[]=[
     { id: 11, name: 'Jill' },
